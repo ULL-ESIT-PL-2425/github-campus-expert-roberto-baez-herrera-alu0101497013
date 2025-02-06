@@ -5,18 +5,19 @@
 - Báez Herrera
 - alu0101497013
 
-## Rellenar el cuestionario GitHub-Alu del campus virtual y recibir el correo confirmándolo
+## Rellenado el cuestionario GitHub-Alu del campus virtual y recibir el correo confirmándolo
 
-![correo de confirmacion del cuestionario](docs/correo_cuestionario.png)
+![correo de confirmacion del cuestionario](docs/confirmacion_cuestionario.png)
 
-## Crear equipo con nombre correcto
+## Creado equipo con nombre correcto
 
-![equipo](docs/equipo.png)
+![equipo](docs/equipo_creado.png)
 
-## Crear un project board kanban para este repositorio
+## Creado un project board kanban para este repositorio
 
 ![project board kanban](docs/project_board.png)
 
-## Solicitar el GitHub Backpack
+## Solicitado el GitHub Backpack
 
-![github backpack](docs/backpack.png)
+![github backpack](docs/confirmacion_education.png)
+
